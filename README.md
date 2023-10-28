@@ -12,6 +12,6 @@ goal is to investigate basic underlying connectivity patterns in protein interac
 Protein associated to PD are taken as seed nodes taken from [MedGen](https://www.ncbi.nlm.nih.gov/medgen/10590)
 Network diffusion is carried out using [Disease Module Detection (DIAMOnD)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004120)
 
-* file folder contains seed protein and interactome
+* file folder contains seed protein and interactome and differential expression 
 * Result folder contains Diamond results after 50 and 500 iterations and cytoskape session 
 * scripts folder contains .R fonctions to run DIAMOND
